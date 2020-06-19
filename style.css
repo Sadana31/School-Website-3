@@ -1,0 +1,133 @@
+h1 {
+    color: #ffff00;
+    text-align: center;
+}
+
+h2 {
+    color: #7fff00;
+    text-align: center;
+}
+
+h3 {
+    color: #ee82ee;
+}
+
+.image {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #808080;
+}
+
+.info {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #808080;
+}
+
+.information {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #808080;    
+}
+
+.information1 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:     grey;    
+}
+
+.information2 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #808080;    
+}
+
+.information3 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #808080;    
+}
+
+.information4 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #808080;    
+}
+
+.links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #ff4500;
+}
+
+.links1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #ff4500;
+}
+
+.links2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #ff4500;
+}
+
+.f1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #006400;
+}
+
+.sc1 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #008080;
+}
+
+.sc2 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #008080;
+}
+
+.sc3 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #008080;
+}
+
+.pon1 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #008080;
+}
+
+.pon2 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:#008080;
+}
+
+.pon3 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:#008080
+}
+
